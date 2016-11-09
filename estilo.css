@@ -1,0 +1,46 @@
+@import url(http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+
+#site-header{
+	border: 2px solid blue;
+	overflow: auto;
+}
+
+h1{
+	margin-left: 25%;
+	float: left;
+}
+
+nav{
+	margin-right: ;
+	border: 1px solid green;
+	float: right;
+}
+
+nav ul li {	
+	display: inline;
+	padding-right: 15%;
+}
+
+nav ul li a {
+	font-size: 25px;
+	color: black;
+	font-weight: bold;
+	text-decoration: none
+}
+
+ul {
+	list-style-type: square;
+}
+
+#services {
+	border: 2px solid red;
+	overflow: auto;
+}
+
+.services {
+	float: left;
+}
+
+section#plans {
+	clear: both;
+}
